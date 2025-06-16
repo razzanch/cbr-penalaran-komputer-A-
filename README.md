@@ -14,13 +14,21 @@ An end-to-end pipeline for building a CBR system using Mahkamah Agung decisions.
 - [License & Credits](#license-credits)
 
 ## 1. Overview
-This repository implements a full Case-Based Reasoning (CBR) pipeline focused on Indonesian court rulings (Perdata Wanprestasi or Criminal cases), demonstrating:
+This repository implements a complete Case-Based Reasoning (CBR) pipeline on Indonesian court rulings with a focus on:
 
-- Corpus collection & cleaning
-- Structured representation of judgments
-- Retrieval using TF-IDF & BERT
-- Reusing prior rulings' solutions
-- Rigorous performance evaluation
+- Corpus collection and cleaning from Mahkamah Agung RI
+
+- Structured representation of court decisions
+
+- Retrieval using two approaches:
+  TF-IDF + Cosine Similarity (unsupervised) and TF-IDF + SVM (supervised classification)
+
+- Reusing solutions from the most relevant past cases
+
+- Performance evaluation using standard metrics (Accuracy, Precision, Recall, F1-Score)
+
+### Selected case domain:
+**General Criminal – Murder Cases from Pengadilan Negeri Medan**
 
 ## 2. Installation
 Start by cloning and setting up the environment:
