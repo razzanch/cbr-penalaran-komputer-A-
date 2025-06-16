@@ -45,7 +45,8 @@ pip install -r requirements.txt
 
 ## 3. Project Structure
 
-├── pdf_downloaded/          # Raw MA PDF/HTML downloads
+```bash
+├── pdf_downloaded/          # Raw MA PDF Document downloads
 ├── data/
 │   ├── raw/                 # Cleaned text files
 │   ├── processed/           # .csv/.json representations and features
@@ -57,6 +58,8 @@ pip install -r requirements.txt
 ├── cbr_law.ipynb            # Jupyter notebook for CBR law analysis
 ├── README.md                # This guide
 └── requirements.txt         # Python dependencies
+```
+
 
 ## 4. Pipeline: Step-by-Step
 
