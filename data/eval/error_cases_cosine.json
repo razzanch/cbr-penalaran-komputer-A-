@@ -1,0 +1,16 @@
+[
+  {
+    "query_id": 7,
+    "query": "terdakwa membunuh korban yaitu tuan rumah ketika sedang melakukan pencurian dirumahnya",
+    "predicted": [
+      5,
+      20,
+      1,
+      43,
+      18
+    ],
+    "ground_truth": [
+      7
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "query_id": 1,
+    "query": "seorang pria membunuh ibunya dengan pisau lalu menguburkan jasadnya",
+    "predicted": [
+      6
+    ],
+    "ground_truth": [
+      1
+    ]
+  },
+  {
+    "query_id": 4,
+    "query": "terdakwa berkelahi dengan temannya di salah satu tempat makan karena perkara sepeda motor",
+    "predicted": [
+      45
+    ],
+    "ground_truth": [
+      4
+    ]
+  },
+  {
+    "query_id": 5,
+    "query": "terdakwa membunuh istrinya karena hubungan seksual yang sangat brutal dan juga sedang dalam pengaruh...",
+    "predicted": [
+      3
+    ],
+    "ground_truth": [
+      5
+    ]
+  },
+  {
+    "query_id": 7,
+    "query": "terdakwa membunuh korban yaitu tuan rumah ketika sedang melakukan pencurian dirumahnya",
+    "predicted": [
+      16
+    ],
+    "ground_truth": [
+      7
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+pdfminer.six
+beautifulsoup4
+scikit-learn
+transformers
+torch
+pandas
+joblib
+numpy
+matplotlib

@@ -1,0 +1,62 @@
+[
+  {
+    "query": "seorang pria membunuh ibunya dengan pisau lalu menguburkan jasadnya",
+    "ground_truth": [
+      1
+    ]
+  },
+  {
+    "query": "penusukan karena perselingkuhan dengan istri terdakwa menyebabkan korban tewas",
+    "ground_truth": [
+      3
+    ]
+  },
+  {
+    "query": "perkelahian karena perebutan lahan parkir berujung kematian",
+    "ground_truth": [
+      2
+    ]
+  },
+  {
+    "query": "terdakwa berkelahi dengan temannya di salah satu tempat makan karena perkara sepeda motor",
+    "ground_truth": [
+      4
+    ]
+  },
+  {
+    "query": "terdakwa membunuh istrinya karena hubungan seksual yang sangat brutal dan juga sedang dalam pengaruh narkoba",
+    "ground_truth": [
+      5
+    ]
+  },
+  {
+    "query": "terdakwa membunuh rekannya karena perkara pembagian uang pada suatu kafe",
+    "ground_truth": [
+      6
+    ]
+  },
+  {
+    "query": "terdakwa membunuh korban yaitu tuan rumah ketika sedang melakukan pencurian dirumahnya",
+    "ground_truth": [
+      7
+    ]
+  },
+  {
+    "query": "terdakwa membunuh karena dendam sering dituduh mencuri di kost mahasiswa",
+    "ground_truth": [
+      8
+    ]
+  },
+  {
+    "query": "terdakwa membunuh pemilik kost karena diancam diusir akibat penunggakan pembayaran kost",
+    "ground_truth": [
+      9
+    ]
+  },
+  {
+    "query": "terdakwa membunuh korban karena keduanya sedang dalam kondisi mabuk",
+    "ground_truth": [
+      10
+    ]
+  }
+]
